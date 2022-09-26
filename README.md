@@ -49,3 +49,12 @@ Unless a new customer makes a purchase, a new product is released, or a new sell
 
 * order_payments. customers can pay an order with different methods of payment.  Every time a payment is made, a row is inserted here. An order can be paid in installments, which means that a single order can have many separate payments.
 * order_reviews. customers can leave multiple reviews corresponding to the order they placed.
+
+# Summary
+
+* Eniac's avg price 540 > Magist's avg price of tech products 132.
+* The avg monthly revenue of Eniac is 1,011,256 > 131,118 the avg monthly revenue of all Magist tech sellers.
+* The average delivery time is 12 days in Magist market, while Apple standard delivery time is 1-3 days.
+
+# Final recommendation
+There is a lack of data to make a better educated decision. However, according to the available data Magist is not a good fit for high-end tech products. Therefore, I recommend that Eniac should not sign the deal with Magist.
