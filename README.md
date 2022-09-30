@@ -1,6 +1,6 @@
 # Objective
 
-The main purpose of this project is weather to recommend or not to Eniac, an online marketplace specializing in Apple-compatible accessories, as an intermediate step for an expansion to the Brazilian market to sign a deal with Magist, a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces.
+The main purpose of this project is whether to recommend or not to Eniac, an online marketplace specializing in Apple-compatible accessories, as an intermediate step for an expansion to the Brazilian market to sign a deal with Magist, a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces.
 
 # Main concerns
 
